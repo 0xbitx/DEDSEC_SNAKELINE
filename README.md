@@ -15,7 +15,10 @@ SNAKELINE is a specialized obfuscation and transformation tool designed for secu
 - **One-Liner Transformation**: Converts multi-line Python scripts into single command-line executables
 - **Payload Self-Removal**: time-based auto-destruction (e.g., 1 hour) for complete trace eradication
 - **Zero-Dependency Architecture**: Pure Python implementation with no external library requirements
-  
+
+### PAYLOADS:
+<img width="529" height="154" alt="Screenshot_20260122_152300" src="https://github.com/user-attachments/assets/13c35371-0352-4c87-be76-c314e0facbef" />
+
 ### Use Cases:
 - Security research and malware analysis
 - Penetration testing and red team operations
