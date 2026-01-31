@@ -29,8 +29,8 @@ SNAKELINE is a specialized obfuscation and transformation tool designed for secu
     git clone https://github.com/0xbitx/DEDSEC_SNAKELINE.git
     cd DEDSEC_SNAKELINE
     pip3 install tabulate
-    chmod +x dedsec_snakeline
-    sudo ./dedsec_snakeline
+    chmod +x dedsec-snakeline
+    sudo ./dedsec-snakeline
     
 ### TESTED ON FOLLOWING
 * Kali Linux 
