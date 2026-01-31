@@ -30,7 +30,7 @@ SNAKELINE is a specialized obfuscation and transformation tool designed for secu
     cd DEDSEC_SNAKELINE
     pip3 install tabulate
     chmod +x dedsec_snakeline
-    ./dedsec_snakeline
+    sudo ./dedsec_snakeline
     
 ### TESTED ON FOLLOWING
 * Kali Linux 
